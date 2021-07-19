@@ -161,7 +161,6 @@ img{
     background: black;
     display: grid;
     justify-items: center;
-    text-align: center;
     border-top: 8px solid #222;
     padding: 4rem 0 2rem 0;
     
@@ -233,6 +232,7 @@ img{
 
 .footer p{
     margin-top: 1rem;
+    text-align: center;
 }
 
 .footer p a{
